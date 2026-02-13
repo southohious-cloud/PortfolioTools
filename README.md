@@ -14,7 +14,7 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ## Included Tools
 
-### 1. Folder Health Check  
+### 1. Folder Health Check
 Analyzes a target directory and produces a structured report including:
 
 - total file count  
@@ -28,7 +28,7 @@ Useful for audits, cleanup workflows, and automated monitoring.
 
 ---
 
-### 2. Document Summarizer  
+### 2. Document Summarizer
 Reads a text‑based document and generates a concise, structured summary. Ideal for:
 
 - meeting notes  
@@ -41,7 +41,7 @@ Outputs are formatted for readability and downstream automation.
 
 ---
 
-### 3. Daily Automation Runner  
+### 3. Daily Automation Runner
 Runs daily tasks in a predictable sequence. Designed for:
 
 - scheduled maintenance  
