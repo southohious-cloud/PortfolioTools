@@ -55,21 +55,42 @@ The runner is intentionally minimal so it can be extended or integrated into lar
 ---
 
 ### 4. File Name Standardizer
-Cleans and normalizes filenames in a target directory for consistent structure and automation‑friendly naming.
+Cleans and normalizes filenames in a target directory using consistent, automation‑friendly rules. Includes:
+
+- removal of problematic characters  
+- consistent spacing and casing  
+- predictable, clean output for downstream tools  
+
+Useful for organizing messy folders and preparing files for automated workflows.
 
 **Folder:** [filename-standardizer](filename-standardizer/)
 
 ---
 
 ### 5. Email Triage
-Processes a batch of exported or text‑based emails and groups them into actionable categories to support prioritization and follow‑up.
+Processes exported or text‑based emails and produces structured categories including:
+
+- actionable items  
+- follow‑ups  
+- informational messages  
+- low‑priority or ignorable content  
+
+Helps reduce inbox noise and supports faster decision‑making.
 
 **Folder:** [email-triage](email-triage/)
 
 ---
 
 ### 6. Client Intake Organizer
-Creates a standardized client folder for new clients, including subfolders and an auto‑generated README to support consistent onboarding workflows.
+Creates a standardized client folder structure including:
+
+- normalized client folder name  
+- subfolders for documents, assets, notes, and deliverables  
+- an auto‑generated README with an intake checklist  
+
+Ideal for consistent onboarding workflows and organized client management.
+
+**Folder:** [client-intake-organizer](client-intake-organizer/)
 
 **Folder:** [client-intake-organizer](client-intake-organizer/)
 
