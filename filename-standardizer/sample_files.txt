@@ -1,0 +1,143 @@
+
+---
+
+### `file-name-standardizer/file_name_standardizer.py`
+
+```python
+import os
+import re
+from pathlib import Path
+
+
+def normalize_stem(stem: str) -> str:
+    """
+    Normalize the base name of a file by lowercasing, replacing spaces with underscores,
+    and stripping unsafe characters while preserving alphanumeric, dash, and underscore.
+    """
+    stem = stem.lower()
+    stem = stem.replace(" ", "_")
+    stem = re.sub(r"[^a-z0-9_\-]+", "_", stem)
+    stem = re.sub(r"_+", "_", stem)
+    return stem.strip("_")
+
+
+def build_new_name(stem: str, suffix: str, prefix: str | None = None) -> str:
+    """
+    Build a new file name from a normalized stem, extension suffix, and optional prefix.
+    """
+    normalized_stem = normalize_stem(stem)
+    if prefix:
+        normalized_prefix = normalize_stem(prefix)
+        base = f"{normalized_prefix}_{normalized_stem}" if normalized_stem else normalized_prefix
+    else:
+        base = normalized_stem
+    return f"{base}{suffix}" if base else f"unnamed{suffix}"
+
+
+def generate_unique_name(target_dir: Path, desired_name: str) -> str:
+    """
+    Ensure the new file name is unique within the target directory by appending a counter if needed.
+    """
+    candidate = desired_name
+    counter = 1
+    stem, suffix = os.path.splitext(desired_name)
+    while (target_dir / candidate).exists():
+        candidate = f"{stem}_{counter}{suffix}"
+        counter += 1
+    return candidate
+
+
+def collect_files(target_dir: Path) -> list[Path]:
+    """
+    Collect all files (non-directories) in the target directory.
+    """
+    return [p for p in target_dir.iterdir() if p.is_file()]
+
+
+def standardize_names(target_dir: Path, prefix: str | None, dry_run: bool = True) -> list[tuple[Path, Path]]:
+    """
+    Standardize file names in the target directory and optionally apply the changes.
+
+    Returns a list of (old_path, new_path) pairs.
+    """
+    mappings: list[tuple[Path, Path]] = []
+    files = collect_files(target_dir)
+
+    for file_path in files:
+        stem = file_path.stem
+        suffix = file_path.suffix.lower()
+        desired_name = build_new_name(stem, suffix, prefix)
+        unique_name = generate_unique_name(target_dir, desired_name)
+        new_path = file_path.with_name(unique_name)
+
+        if file_path != new_path:
+            mappings.append((file_path, new_path))
+
+    if not dry_run:
+        for old_path, new_path in mappings:
+            old_path.rename(new_path)
+
+    return mappings
+
+
+def prompt_bool(message: str, default: bool = True) -> bool:
+    """
+    Prompt the user for a yes/no answer with a default.
+    """
+    default_str = "Y/n" if default else "y/N"
+    while True:
+        response = input(f"{message} [{default_str}]: ").strip().lower()
+        if not response:
+            return default
+        if response in {"y", "yes"}:
+            return True
+        if response in {"n", "no"}:
+            return False
+        print("Please enter 'y' or 'n'.")
+
+
+def main() -> None:
+    """
+    Entry point for the File Name Standardizer tool.
+    """
+    print("File Name Standardizer")
+    print("----------------------")
+
+    folder_input = input("Enter the path to the folder to standardize: ").strip()
+    target_dir = Path(folder_input).expanduser().resolve()
+
+    if not target_dir.exists() or not target_dir.is_dir():
+        print("The provided path is not a valid directory.")
+        return
+
+    prefix_input = input("Optional prefix to apply to all files (leave blank for none): ").strip()
+    prefix = prefix_input or None
+
+    dry_run = prompt_bool("Run in dry-run mode (preview only)?", default=True)
+
+    mappings = standardize_names(target_dir, prefix, dry_run=dry_run)
+
+    if not mappings:
+        print("No files needed renaming. Everything is already standardized.")
+        return
+
+    print()
+    print("Planned renames:")
+    for old_path, new_path in mappings:
+        print(f"- {old_path.name} -> {new_path.name}")
+
+    if dry_run:
+        print()
+        apply_changes = prompt_bool("Apply these changes now?", default=False)
+        if apply_changes:
+            mappings = standardize_names(target_dir, prefix, dry_run=False)
+            print("Renaming complete.")
+        else:
+            print("No changes were applied.")
+    else:
+        print()
+        print("Renaming complete.")
+
+
+if __name__ == "__main__":
+    main()
