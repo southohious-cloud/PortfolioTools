@@ -92,9 +92,6 @@ Ideal for consistent onboarding workflows and organized client management.
 
 **Folder:** [client-intake-organizer](client-intake-organizer/)
 
-**Folder:** [client-intake-organizer](client-intake-organizer/)
-
-
 ---
 
 ## Future Additions
