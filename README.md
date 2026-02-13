@@ -58,9 +58,9 @@ The runner is intentionally minimal so it can be extended or integrated into lar
 
 Cleans and normalizes filenames in a target directory using consistent, automation-friendly rules. Includes:
 
-· removal of problematic characters  
-· consistent spacing and casing  
-· predictable, clean output for downstream tools  
+• removal of problematic characters  
+• consistent spacing and casing  
+• predictable, clean output for downstream tools  
 
 Useful for organizing messy folders and preparing files for automated workflows.
 
@@ -72,10 +72,10 @@ Folder: filename-standardizer
 
 Processes exported or text-based emails and produces structured categories including:
 
-· actionable items  
-· follow-ups  
-· informational messages  
-· low-priority or ignorable content  
+• actionable items  
+• follow-ups  
+• informational messages  
+• low-priority or ignorable content  
 
 Helps reduce inbox noise and supports faster decision-making.
 
@@ -87,13 +87,15 @@ Folder: email-triage
 
 Creates a standardized client folder structure including:
 
-· normalized client folder name  
-· subfolders for documents, assets, notes, and deliverables  
-· an auto-generated README with an intake checklist  
+• normalized client folder name  
+• subfolders for documents, assets, notes, and deliverables  
+• an auto-generated README with an intake checklist  
 
 Ideal for consistent onboarding workflows and organized client management.
 
 Folder: client-intake-organizer
+
+---
 
 ---
 
