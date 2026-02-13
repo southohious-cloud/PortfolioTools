@@ -54,13 +54,25 @@ The runner is intentionally minimal so it can be extended or integrated into lar
 
 ---
 
-## Design Philosophy
+### 4. File Name Standardizer
+Cleans and normalizes filenames in a target directory for consistent structure and automation‑friendly naming.
 
-- Clarity over cleverness — readable, predictable code  
-- Single‑purpose tools — each folder solves one problem well  
-- Modular structure — easy to reuse, extend, or integrate  
-- Human‑friendly output — clean formatting for logs and reports  
-- Machine‑friendly structure — predictable keys and patterns for automation  
+**Folder:** [filename-standardizer](filename-standardizer/)
+
+---
+
+### 5. Email Triage
+Processes a batch of exported or text‑based emails and groups them into actionable categories to support prioritization and follow‑up.
+
+**Folder:** [email-triage](email-triage/)
+
+---
+
+### 6. Client Intake Organizer
+Creates a standardized client folder for new clients, including subfolders and an auto‑generated README to support consistent onboarding workflows.
+
+**Folder:** [client-intake-organizer](client-intake-organizer/)
+
 
 ---
 
