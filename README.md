@@ -1,43 +1,74 @@
-Portfolio Tools
+# PortfolioTools
 
-This collection contains three small, focused utilities designed to demonstrate clean Python design, modular structure, and practical workflow automation. Each tool solves a simple problem in a predictable, reliable way and produces clear, human‑friendly and machine‑friendly output.
+A curated collection of small, focused Python utilities designed for clean structure, predictable behavior, and practical workflow automation. Each tool solves a real‑world problem in a simple, reliable way and produces output that is both human‑friendly and machine‑friendly.
 
-The suite is intentionally lightweight and easy to run. Each tool lives in its own folder with its own README and Python script, and all tools follow the same structure and design philosophy.
+Every tool lives in its own folder with:
 
-Included tools
+- its own README  
+- a single, well‑structured Python script  
+- consistent naming and design philosophy  
 
-1. Folder Health Check
-Analyzes a folder and produces a quick report showing file counts, total size, and the largest files.
-Useful for understanding the structure and health of any directory at a glance.
+This keeps the suite easy to explore, extend, and integrate into larger systems.
 
-2. Document Summarizer
-Reads a text‑based document and generates a clean summary.
-Useful for quickly understanding the main ideas of long or dense files.
+---
 
-3. Daily Automation Runner
-Performs one automated action per day by taking a daily snapshot of a folder and logging how it changes over time.
-Useful for tracking growth, activity, or daily updates in any directory.
+## Included Tools
 
-Design philosophy
+### 1. Folder Health Check  
+Analyzes a target directory and produces a structured report including:
 
-Each tool is built with the same principles:
-• 	simple, modular functions
-• 	clear docstrings
-• 	no comments
-• 	predictable input and output
-• 	human‑friendly and machine‑friendly logs
-• 	no external dependencies
-• 	clean folder structure
+- total file count  
+- total size  
+- largest files  
+- extension breakdown  
 
-This keeps the suite easy to understand, easy to extend, and easy to integrate into larger workflows.
+Useful for audits, cleanup workflows, and automated monitoring.
 
-Folder structure
+**Folder:** [folder-health-check](folder-health-check/)
 
-Each tool is self‑contained and can be run independently.
+---
 
-How to use the suite
-1. 	Open any tool’s folder.
-2. 	Read its README for details.
-3. 	Run the Python script inside that folder.
+### 2. Document Summarizer  
+Reads a text‑based document and generates a concise, structured summary. Ideal for:
 
-No installation steps or configuration files are required.
+- meeting notes  
+- research documents  
+- long‑form text you need to understand quickly  
+
+Outputs are formatted for readability and downstream automation.
+
+**Folder:** [document-summarizer](document-summarizer/)
+
+---
+
+### 3. Daily Automation Runner  
+Runs daily tasks in a predictable sequence. Designed for:
+
+- scheduled maintenance  
+- routine checks  
+- multi‑step workflows  
+
+The runner is intentionally minimal so it can be extended or integrated into larger systems.
+
+**Folder:** [daily-automation-runner](daily-automation-runner/)
+
+---
+
+## Design Philosophy
+
+- Clarity over cleverness — readable, predictable code  
+- Single‑purpose tools — each folder solves one problem well  
+- Modular structure — easy to reuse, extend, or integrate  
+- Human‑friendly output — clean formatting for logs and reports  
+- Machine‑friendly structure — predictable keys and patterns for automation  
+
+---
+
+## Future Additions
+
+This suite is designed to grow. Planned expansions include:
+
+- additional workflow utilities  
+- more automation runners  
+- extended reporting formats  
+- optional CLI wrappers  
