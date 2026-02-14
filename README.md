@@ -64,7 +64,7 @@ Cleans and normalizes filenames in a target directory using consistent, automati
 
 Useful for organizing messy folders and preparing files for automated workflows.
 
-Folder: filename-standardizer
+**Folder:** [filename-standardizer](filename-standardizer/)
 
 ---
 
@@ -79,7 +79,7 @@ Processes exported or text-based emails and produces structured categories inclu
 
 Helps reduce inbox noise and supports faster decision-making.
 
-Folder: email-triage
+**Folder:** [email-triage](email-triage/)
 
 ---
 
@@ -93,7 +93,10 @@ Creates a standardized client folder structure including:
 
 Ideal for consistent onboarding workflows and organized client management.
 
-Folder: client-intake-organizer
+**Folder:** [client-intake-organizer](client-intake-organizer/)
+
+---
+
 
 ---
 ### Future Additions
