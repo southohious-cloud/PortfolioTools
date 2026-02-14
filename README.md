@@ -151,16 +151,77 @@ Ideal for turning messy input into a clean, structured task list ready for plann
 
 ## Workflow Integration Examples
 
-This repository includes a dedicated set of **Workflow Integration Examples** that demonstrate how the tools in this project can be combined into lightweight, modular workflows. These examples show clients how each tool can operate independently or connect into a larger system.
+Below are six modular workflow examples that demonstrate how the tools in this project can be combined into lightweight, repeatable systems. Each example shows how individual tools can operate independently or connect into a larger workflow.
 
-The integration examples include:
+---
 
-- Intake → File Name Standardizer  
-- Document Summarizer → Email Triage Assistant  
-- Folder Health Check → File Name Standardizer  
-- Intake → Workflow Map Routing  
-- Summarizer → Output Layer Templates  
-- Multi‑Tool Mini Workflow (Premium Example)  
+### 1. Intake → File Name Standardizer  
+**Use case:** A client uploads documents with inconsistent names.
+
+**Flow:**
+- Intake form receives files  
+- Files pass through the Standardizer  
+- Output is a clean, consistent set of names ready for storage or processing  
+
+**Value:** Reduces chaos, prevents duplicates, and creates predictable structure.
+
+---
+
+### 2. Document Summarizer → Email Triage Assistant  
+**Use case:** A client receives long attachments and needs quick decisions.
+
+**Flow:**
+- Summarizer extracts key points  
+- Triage Assistant generates action options (reply, delegate, archive, follow‑up)  
+
+**Value:** Faster decisions, less cognitive load, clearer next steps.
+
+---
+
+### 3. Folder Health Check → File Name Standardizer  
+**Use case:** A messy folder needs cleanup and consistency.
+
+**Flow:**
+- Health Check identifies issues (duplicates, missing extensions, inconsistent patterns)  
+- Standardizer applies naming rules to fix inconsistencies  
+
+**Value:** A clean, predictable workspace with minimal manual effort.
+
+---
+
+### 4. Intake → Workflow Map Routing  
+**Use case:** A client wants tasks automatically sorted into the correct lane.
+
+**Flow:**
+- Intake captures request details  
+- Classification assigns the correct lane (A/B/C/D)  
+- Optional automations trigger based on lane  
+
+**Value:** Zero ambiguity — every task starts in the right place.
+
+---
+
+### 5. Summarizer → Output Layer Templates  
+**Use case:** Turning raw content into polished deliverables.
+
+**Flow:**
+- Summarizer extracts the core content  
+- Output Layer applies formatting rules and templates  
+
+**Value:** Faster production of clean, client‑ready documents.
+
+---
+
+### 6. Multi‑Tool Mini Workflow (Premium Example)  
+**Use case:** A client wants a repeatable, semi‑automated content pipeline.
+
+**Flow:**
+- Intake receives topic or request  
+- Classification routes to Content Lane  
+- Summarizer processes research  
+- Output Layer formats the final draft  
+
+**Value:** A lightweight, scalable system that feels like a custom internal workflow.
 
 A full **stacked‑vertical workflow diagram** is also included to visually summarize all six integrations on a single page.
 
