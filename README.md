@@ -108,6 +108,17 @@ Extracts actionable tasks from unstructured text, including:
 
 Ideal for turning messy input into a clean, structured task list ready for planning or automation.
 
+### 7. Task Extractor
+
+Extracts actionable tasks from unstructured text, including:
+
+- meeting notes  
+- client messages  
+- long documents  
+- any raw text that needs to be converted into clear next steps  
+
+Ideal for turning messy input into a clean, structured task list ready for planning or automation.
+
 **Folder:** [task-extractor](task-extractor/)
 ---
 ### Future Additions
