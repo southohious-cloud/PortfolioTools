@@ -11,6 +11,7 @@ Every tool lives in its own folder with:
 This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ---
+
 ## Table of Contents
 
 - [Included Tools](#included-tools)
@@ -20,7 +21,7 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 - [Future Additions](#future-additions)
 
-
+---
 
 ## Included Tools
 
@@ -38,7 +39,7 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ### 7. Task Extractor {#7-task-extractor}
 
-
+---
 
 ### 1. Folder Health Check
 
@@ -139,6 +140,7 @@ Ideal for turning messy input into a clean, structured task list ready for plann
 **Folder:** [task-extractor](task-extractor/)
 
 
+---
 
 ## Workflow Integration Examples
 
@@ -158,6 +160,7 @@ A full **stacked‑vertical workflow diagram** is also included to visually summ
 ### Full Workflow Diagram
 
 ```
+
 Workflow Integration — Full Vertical Diagram (Examples 1–6)
 
 ┌────────────┐
@@ -187,6 +190,7 @@ Workflow Integration — Full Vertical Diagram (Examples 1–6)
 ┌───────────────┐
 │ Final Output   │
 └───────────────┘
+
 ```
 
 These examples are part of the client‑facing binder and help illustrate how PortfolioTools can scale from simple utilities to complete workflow systems.
