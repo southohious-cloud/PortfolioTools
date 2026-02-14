@@ -110,6 +110,7 @@ Ideal for turning messy input into a clean, structured task list ready for plann
 
 
 **Folder:** [task-extractor](task-extractor/)
+
 ---
 ### Future Additions
 
