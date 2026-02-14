@@ -127,6 +127,40 @@ The integration examples include:
 
 A full **stacked‑vertical workflow diagram** is also included to visually summarize all six integrations on a single page.
 
+### Full Workflow Diagram
+
+```
+Workflow Integration — Full Vertical Diagram (Examples 1–6)
+
+┌────────────┐
+│ Intake     │
+└─────┬──────┘
+      ▼
+┌────────────────────────┐
+│ File Name Standardizer │ (Example 1 & 3)
+└─────┬──────────────────┘
+      ▼
+┌──────────────────────────┐
+│ Document Summarizer      │ (Example 2 & 5)
+└─────┬────────────────────┘
+      ▼
+┌──────────────────────────┐
+│ Email Triage Assistant   │ (Example 2)
+└─────┬────────────────────┘
+      ▼
+┌──────────────────────────┐
+│ Workflow Map Routing     │ (Example 4)
+└─────┬────────────────────┘
+      ▼
+┌──────────────────────────┐
+│ Output Layer Templates   │ (Example 5 & 6)
+└─────┬────────────────────┘
+      ▼
+┌───────────────┐
+│ Final Output   │
+└───────────────┘
+```
+
 These examples are part of the client‑facing binder and help illustrate how PortfolioTools can scale from simple utilities to complete workflow systems.
 
 ---
