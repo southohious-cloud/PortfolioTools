@@ -96,25 +96,7 @@ Ideal for consistent onboarding workflows and organized client management.
 Folder: client-intake-organizer
 
 ---
-
----
-
----
-
-
----
-
----
-
-
----
-
----
-
-
----
-
-## Future Additions
+### Future Additions
 
 This suite is designed to grow. Planned expansions include:
 
