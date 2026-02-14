@@ -38,6 +38,7 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 ### 7. Task Extractor {#7-task-extractor}
 
 
+
 ### 1. Folder Health Check
 
 Analyzes a target directory and produces a structured report including:
@@ -137,6 +138,7 @@ Ideal for turning messy input into a clean, structured task list ready for plann
 **Folder:** [task-extractor](task-extractor/)
 
 
+
 ## Workflow Integration Examples
 
 This repository includes a dedicated set of **Workflow Integration Examples** that demonstrate how the tools in this project can be combined into lightweight, modular workflows. These examples show clients how each tool can operate independently or connect into a larger system.
@@ -189,6 +191,7 @@ Workflow Integration — Full Vertical Diagram (Examples 1–6)
 These examples are part of the client‑facing binder and help illustrate how PortfolioTools can scale from simple utilities to complete workflow systems.
 
 ---
+
 ### Future Additions
 
 This suite is designed to grow. Planned expansions include:
