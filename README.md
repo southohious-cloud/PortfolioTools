@@ -25,19 +25,19 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 # Included Tools
 
-1. [Folder Health Check](#folder-health-check)
+- [Folder Health Check](#folder-health-check)
 
-2. [Document Summarizer](#document-summarizer)
+- [Document Summarizer](#document-summarizer)
 
-3. [Daily Automation Runner](#daily-automation-runner)
+- [Daily Automation Runner](#daily-automation-runner)
 
-4. [File Name Standardizer](#file-name-standardizer)
+- [File Name Standardizer](#file-name-standardizer)
 
-5. [Email Triage Assistant](#email-triage-assistant)
+- [Email Triage Assistant](#email-triage-assistant)
 
-6. [Client Intake Organizer](#client-intake-organizer)
+- [Client Intake Organizer](#client-intake-organizer)
 
-7. [Task Extractor](#task-extractor)
+- [Task Extractor](#task-extractor)
 
 ---
 
