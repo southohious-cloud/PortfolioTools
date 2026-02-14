@@ -108,7 +108,7 @@ Extracts actionable tasks from unstructured text, including:
 
 Ideal for turning messy input into a clean, structured task list ready for planning or automation.
 
-**Folder:** [task-extractor](task-extractor/) 
+**Folder:** [task-extractor](task-extractor/)
 ---
 ### Future Additions
 
