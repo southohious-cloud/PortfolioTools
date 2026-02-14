@@ -23,21 +23,21 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ---
 
-## Included Tools
+# Included Tools
 
-### 1. Client Intake Organizer {#1-client-intake-organizer}
+1. [Folder Health Check](#folder-health-check)
 
-### 2. File Name Standardizer {#2-file-name-standardizer}
+2. [Document Summarizer](#document-summarizer)
 
-### 3. Folder Health Check {#3-folder-health-check}
+3. [Daily Automation Runner](#daily-automation-runner)
 
-### 4. Document Summarizer {#4-document-summarizer}
+4. [File Name Standardizer](#file-name-standardizer)
 
-### 5. Email Triage Assistant {#5-email-triage-assistant}
+5. [Email Triage Assistant](#email-triage-assistant)
 
-### 6. Workflow Map Routing {#6-workflow-map-routing}
+6. [Client Intake Organizer](#client-intake-organizer)
 
-### 7. Task Extractor {#7-task-extractor}
+7. [Task Extractor](#task-extractor)
 
 ---
 
