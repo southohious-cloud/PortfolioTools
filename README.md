@@ -15,6 +15,14 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 - [Included Tools](#included-tools)
 
+- [Workflow Integration Examples](#workflow-integration-examples)
+  - [Full Workflow Diagram](#full-workflow-diagram)
+
+- [Future Additions](#future-additions)
+
+
+## Included Tools
+
 ### 1. Client Intake Organizer {#1-client-intake-organizer}
 
 ### 2. File Name Standardizer {#2-file-name-standardizer}
@@ -29,15 +37,9 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ### 7. Task Extractor {#7-task-extractor}
 
-- [Workflow Integration Examples](#workflow-integration-examples)
-  - [Full Workflow Diagram](#full-workflow-diagram)
-
-- [Future Additions](#future-additions)
-
-
-## Included Tools
 
 ### 1. Folder Health Check
+
 Analyzes a target directory and produces a structured report including:
 
 - total file count  
