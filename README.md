@@ -25,23 +25,24 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 # Included Tools
 
-## Folder Health Check
+- [Folder Health Check](#folder-health-check)
 
-## Document Summarizer
+- [Document Summarizer](#document-summarizer)
 
-## Daily Automation Runner
+- [Daily Automation Runner](#daily-automation-runner)
 
-## File Name Standardizer
+- [File Name Standardizer](#file-name-standardizer)
 
-## Email Triage Assistant
+- [Email Triage Assistant](#email-triage-assistant)
 
-## Client Intake Organizer
+- [Client Intake Organizer](#client-intake-organizer)
 
-## Task Extractor
+- [Task Extractor](#task-extractor)
 
 ---
 
-### 1. Folder Health Check
+## Folder Health Check
+**1. Folder Health Check**
 
 Analyzes a target directory and produces a structured report including:
 
@@ -56,7 +57,8 @@ Useful for audits, cleanup workflows, and automated monitoring.
 
 ---
 
-### 2. Document Summarizer
+## Document Summarizer
+**2. Document Summarizer**
 Reads a text‑based document and generates a concise, structured summary. Ideal for:
 
 - meeting notes  
@@ -69,7 +71,8 @@ Outputs are formatted for readability and downstream automation.
 
 ---
 
-### 3. Daily Automation Runner
+## Daily Automation Runner
+**3. Daily Automation Runner**
 Runs daily tasks in a predictable sequence. Designed for:
 
 - scheduled maintenance  
@@ -82,7 +85,8 @@ The runner is intentionally minimal so it can be extended or integrated into lar
 
 ---
 
-### 4. File Name Standardizer
+## File Name Standardizer
+**4. File Name Standardizer**
 
 Cleans and normalizes filenames in a target directory using consistent, automation-friendly rules. Includes:
 
@@ -96,7 +100,8 @@ Useful for organizing messy folders and preparing files for automated workflows.
 
 ---
 
-### 5. Email Triage
+## Email Triage Assistant
+**5. Email Triage Assistant**
 
 Processes exported or text-based emails and produces structured categories including:
 
@@ -111,7 +116,8 @@ Helps reduce inbox noise and supports faster decision-making.
 
 ---
 
-### 6. Client Intake Organizer
+## Client Intake Organizer
+**6. Client Intake Organizer**
 
 Creates a standardized client folder structure including:
 
@@ -125,7 +131,8 @@ Ideal for consistent onboarding workflows and organized client management.
 
 ---
 
-### 7. Task Extractor
+## Task Extractor
+**7. Task Extractor**
 
 Extracts actionable tasks from unstructured text, including:
 
