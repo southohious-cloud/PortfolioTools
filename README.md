@@ -220,6 +220,8 @@ Below are six modular workflow examples that demonstrate how the tools in this p
 
 **Value:** A lightweight, scalable system that feels like a custom internal workflow.
 
+---
+
 A full **stacked‑vertical workflow diagram** is also included to visually summarize all six integrations on a single page.
 
 ### Full Workflow Diagram
