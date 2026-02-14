@@ -110,6 +110,24 @@ Ideal for turning messy input into a clean, structured task list ready for plann
 
 **Folder:** [task-extractor](task-extractor/)
 
+
+## Workflow Integration Examples
+
+This repository includes a dedicated set of **Workflow Integration Examples** that demonstrate how the tools in this project can be combined into lightweight, modular workflows. These examples show clients how each tool can operate independently or connect into a larger system.
+
+The integration examples include:
+
+- Intake → File Name Standardizer  
+- Document Summarizer → Email Triage Assistant  
+- Folder Health Check → File Name Standardizer  
+- Intake → Workflow Map Routing  
+- Summarizer → Output Layer Templates  
+- Multi‑Tool Mini Workflow (Premium Example)  
+
+A full **stacked‑vertical workflow diagram** is also included to visually summarize all six integrations on a single page.
+
+These examples are part of the client‑facing binder and help illustrate how PortfolioTools can scale from simple utilities to complete workflow systems.
+
 ---
 ### Future Additions
 
