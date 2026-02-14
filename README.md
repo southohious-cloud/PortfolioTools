@@ -11,6 +11,29 @@ Every tool lives in its own folder with:
 This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ---
+## Table of Contents
+
+- [Included Tools](#included-tools)
+
+### 1. Client Intake Organizer {#1-client-intake-organizer}
+
+### 2. File Name Standardizer {#2-file-name-standardizer}
+
+### 3. Folder Health Check {#3-folder-health-check}
+
+### 4. Document Summarizer {#4-document-summarizer}
+
+### 5. Email Triage Assistant {#5-email-triage-assistant}
+
+### 6. Workflow Map Routing {#6-workflow-map-routing}
+
+### 7. Task Extractor {#7-task-extractor}
+
+- [Workflow Integration Examples](#workflow-integration-examples)
+  - [Full Workflow Diagram](#full-workflow-diagram)
+
+- [Future Additions](#future-additions)
+
 
 ## Included Tools
 
