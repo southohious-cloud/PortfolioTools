@@ -15,12 +15,9 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 ## Table of Contents
 
 - [Included Tools](#included-tools)
-
 - [Workflow Integration Examples](#workflow-integration-examples)
-  - [Full Workflow Diagram](#full-workflow-diagram)
-
+- [Full Workflow Diagram](#full-workflow-diagram)
 - [Future Additions](#future-additions)
-
 ---
 
 # Included Tools
