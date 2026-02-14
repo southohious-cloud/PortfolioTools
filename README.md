@@ -21,6 +21,7 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 - [Future Additions](#future-additions)
 
 
+
 ## Included Tools
 
 ### 1. Client Intake Organizer {#1-client-intake-organizer}
