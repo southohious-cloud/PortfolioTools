@@ -1,0 +1,73 @@
+FILE CLEANUP REPORT — C:\CompanyShare\2021-2025_Archive
+============================================================
+
+DUPLICATE FILES:
+
+Hash: 1a9f4c2d7e8b3f0a4d9c1e7b2f3a8c6d5e1b0f9a2c4d7e8b3f1a9c0d2e4b6f8
+  - C:\CompanyShare\Marketing\BrandAssets\logo_final.png
+  - C:\CompanyShare\Marketing\BrandAssets\logo_final_copy.png
+  - C:\CompanyShare\Marketing\Old\logo_2022_backup.png
+
+Hash: 8c2b1f0e4d7a9c3b5e1f8a0d6c4b2e7f9a1d3c5b7e9f0a2c4d6e8b0f1a3c5d7
+  - C:\CompanyShare\Finance\Reports\Q4_2023\summary.pdf
+  - C:\CompanyShare\Finance\Reports\Q4_2023\summary_backup.pdf
+
+Hash: 7e1d3c5b9a0f2e4d6c8b1a3f5e7d9c0b2a4f6e8d1c3b5a7f9e0d2c4b6a8f1
+  - C:\CompanyShare\HR\Onboarding\Handbook_v3.docx
+  - C:\CompanyShare\HR\Onboarding\Handbook_FINAL.docx
+
+Hash: 4b8e2c1d9f0a3e7c5d1b6a4f8c2e9d0b3a7f5c1e4d8b2a9c0f6e3d1b7a5c9
+  - C:\CompanyShare\Engineering\Specs\API_Documentation.pdf
+  - C:\CompanyShare\Engineering\Specs\API_Documentation(1).pdf
+  - C:\CompanyShare\Engineering\Specs\Archive\API_Documentation_old.pdf
+
+Hash: 2d7c1a9f4e8b3f0c5d2a7e1b9c4f6a8d3e0b1c7f5a9d2e4c6b8f0a1d3c5e7
+  - C:\CompanyShare\Sales\Presentations\ClientDeck_v5.pptx
+  - C:\CompanyShare\Sales\Presentations\ClientDeck_FINAL.pptx
+
+
+LARGE FILES (>50MB):
+  - C:\CompanyShare\Engineering\Builds\release_2023_11_14.zip
+  - C:\CompanyShare\Engineering\Builds\release_2024_02_01.zip
+  - C:\CompanyShare\Marketing\Videos\promo_raw_4k.mov
+  - C:\CompanyShare\Marketing\Videos\event_footage_2022.mp4
+  - C:\CompanyShare\Finance\Exports\full_ledger_2021.xlsx
+  - C:\CompanyShare\Finance\Exports\full_ledger_2022.xlsx
+  - C:\CompanyShare\Finance\Exports\full_ledger_2023.xlsx
+  - C:\CompanyShare\IT\Backups\server_backup_2023_09_01.tar
+  - C:\CompanyShare\IT\Backups\server_backup_2024_01_01.tar
+  - C:\CompanyShare\IT\Backups\server_backup_2024_06_01.tar
+
+
+OLD FILES (>180 days):
+  - C:\CompanyShare\HR\Onboarding\old_forms\W4_2021.pdf
+  - C:\CompanyShare\HR\Onboarding\old_forms\DirectDeposit_2020.pdf
+  - C:\CompanyShare\Marketing\Campaigns\2021\campaign_brief.docx
+  - C:\CompanyShare\Marketing\Campaigns\2021\ad_copy_v2.txt
+  - C:\CompanyShare\Marketing\Campaigns\2022\campaign_plan.pdf
+  - C:\CompanyShare\Engineering\Specs\API_v1_notes.txt
+  - C:\CompanyShare\Engineering\Specs\API_v2_notes.txt
+  - C:\CompanyShare\Engineering\Specs\API_v3_notes.txt
+  - C:\CompanyShare\Engineering\Archive\design_mockup_2020.png
+  - C:\CompanyShare\Engineering\Archive\design_mockup_2021.png
+  - C:\CompanyShare\Engineering\Archive\design_mockup_2022.png
+  - C:\CompanyShare\Finance\Reports\2021\Q1_summary.xlsx
+  - C:\CompanyShare\Finance\Reports\2021\Q2_summary.xlsx
+  - C:\CompanyShare\Finance\Reports\2021\Q3_summary.xlsx
+  - C:\CompanyShare\Finance\Reports\2021\Q4_summary.xlsx
+  - C:\CompanyShare\Sales\Leads\2020\lead_dump.csv
+  - C:\CompanyShare\Sales\Leads\2021\lead_dump.csv
+  - C:\CompanyShare\Sales\Leads\2022\lead_dump.csv
+  - C:\CompanyShare\IT\Logs\server_log_2022.txt
+  - C:\CompanyShare\IT\Logs\server_log_2023.txt
+
+
+EMPTY FOLDERS:
+  - C:\CompanyShare\Marketing\Campaigns\2020\unused
+  - C:\CompanyShare\Engineering\Temp
+  - C:\CompanyShare\Engineering\Specs\Drafts\old
+  - C:\CompanyShare\Finance\Reports\2020\Archive\temp
+  - C:\CompanyShare\HR\Onboarding\old_forms\unused
+  - C:\CompanyShare\Sales\Presentations\Drafts\temp
+  - C:\CompanyShare\IT\Backups\old\empty
+  - C:\CompanyShare\IT\Logs\Archive\temp

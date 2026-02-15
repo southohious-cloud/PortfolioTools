@@ -1,0 +1,28 @@
+FILE CLEANUP REPORT — C:\ExampleFolder
+=====================================
+
+DUPLICATE FILES:
+
+Hash: a1b2c3d4e5f6
+  - C:\ExampleFolder\images\photo1.png
+  - C:\ExampleFolder\images\photo1_copy.png
+
+Hash: f6e5d4c3b2a1
+  - C:\ExampleFolder\docs\notes.txt
+  - C:\ExampleFolder\docs\notes_backup.txt
+
+
+LARGE FILES (>50MB):
+  - C:\ExampleFolder\videos\raw_clip.mov
+  - C:\ExampleFolder\archives\project_backup.zip
+
+
+OLD FILES (>180 days):
+  - C:\ExampleFolder\docs\old_invoice_2022.pdf
+  - C:\ExampleFolder\images\unused_banner.png
+  - C:\ExampleFolder\reports\summary_2021.docx
+
+
+EMPTY FOLDERS:
+  - C:\ExampleFolder\temp
+  - C:\ExampleFolder\images\unused
