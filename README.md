@@ -36,6 +36,8 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 - [Task Extractor](#task-extractor)
 
+- [File Cleanup Assistant](#file-cleanup-assistant)
+
 ---
 
 ## Folder Health Check
@@ -143,6 +145,22 @@ Ideal for turning messy input into a clean, structured task list ready for plann
 
 **Folder:** [task-extractor](task-extractor/)
 
+---
+
+## File Cleanup Assistant
+**8. File Cleanup Assistant**
+
+Analyzes a folder to identify duplicates, oversized files, old files, and empty folders. Includes:
+
+- duplicate detection using SHA‑256 hashing  
+- large file identification  
+- old file scanning  
+- empty folder detection  
+- a clean, readable text report  
+
+Useful for cleaning up messy directories, preparing project folders for client delivery, and reviewing shared drives for clutter.
+
+**Folder:** [file-cleanup-assistant](file-cleanup-assistant/)
 
 ---
 
