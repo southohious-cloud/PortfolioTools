@@ -184,6 +184,7 @@ Useful for daily standups, client updates, project check‑ins, and documenting 
 
 ---
 
+## Simple Invoice Generator
 **10. Simple Invoice Generator**
 
 Creates clean, readable invoices from structured client and billing data. Includes:
