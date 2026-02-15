@@ -40,6 +40,8 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 - [Workflow Snapshot Generator](#workflow-snapshot-generator)
 
+- [Simple Invoice Generator](#simple-invoice-generator)
+
 ---
 
 ## Folder Health Check
@@ -179,6 +181,21 @@ Creates a structured, at‑a‑glance snapshot of a workflow’s current state. 
 Useful for daily standups, client updates, project check‑ins, and documenting workflow state before handoff.
 
 **Folder:** [workflow-snapshot-generator](workflow-snapshot-generator/)
+
+---
+
+**10. Simple Invoice Generator**
+
+Creates clean, readable invoices from structured client and billing data. Includes:
+
+- JSON‑based input for client details and line items  
+- automatic subtotal and total calculation  
+- consistent, plain‑text invoice formatting  
+- clean output suitable for email, archiving, or printing  
+
+Useful for quick billing, client summaries, and generating consistent invoice records.
+
+**Folder:** [simple-invoice-generator](simple-invoice-generator/)
 
 ---
 

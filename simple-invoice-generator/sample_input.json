@@ -1,0 +1,22 @@
+{
+  "client": {
+    "name": "Acme Corporation",
+    "address": "123 Market Street",
+    "city": "Cincinnati, OH",
+    "email": "billing@acme.com"
+  },
+  "invoice": {
+    "date": "2026-02-15",
+    "invoice_number": "INV-001"
+  },
+  "items": [
+    {
+      "description": "Design Work",
+      "amount": 300
+    },
+    {
+      "description": "Consultation",
+      "amount": 150
+    }
+  ]
+}
