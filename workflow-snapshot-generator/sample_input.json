@@ -1,0 +1,37 @@
+[
+    {
+        "task": "Prepare client proposal",
+        "status": "In Progress",
+        "priority": "High"
+    },
+    {
+        "task": "Review project requirements",
+        "status": "Completed"
+    },
+    {
+        "task": "Email design assets to client",
+        "status": "Not Started",
+        "priority": "Medium"
+    },
+    {
+        "task": "Update workflow documentation",
+        "status": "In Progress"
+    },
+    {
+        "task": "Schedule follow-up meeting",
+        "status": "Blocked",
+        "priority": "High"
+    },
+    {
+        "task": "Organize project folder",
+        "status": "Not Started"
+    },
+    {
+        "task": "Finalize deliverable package",
+        "status": "Blocked"
+    },
+    {
+        "task": "Run Folder Health Check",
+        "status": "Completed"
+    }
+]

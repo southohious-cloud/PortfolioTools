@@ -38,6 +38,8 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 - [File Cleanup Assistant](#file-cleanup-assistant)
 
+- [Workflow Snapshot Generator](#workflow-snapshot-generator)
+
 ---
 
 ## Folder Health Check
@@ -161,6 +163,22 @@ Analyzes a folder to identify duplicates, oversized files, old files, and empty 
 Useful for cleaning up messy directories, preparing project folders for client delivery, and reviewing shared drives for clutter.
 
 **Folder:** [file-cleanup-assistant](file-cleanup-assistant/)
+
+---
+
+## Workflow Snapshot Generator
+**9. Workflow Snapshot Generator**
+
+Creates a structured, at‑a‑glance snapshot of a workflow’s current state. Includes:
+
+- task list loading from JSON  
+- status grouping (Not Started, In Progress, Blocked, Completed)  
+- optional priority tagging  
+- a clean, readable summary report  
+
+Useful for daily standups, client updates, project check‑ins, and documenting workflow state before handoff.
+
+**Folder:** [workflow-snapshot-generator](workflow-snapshot-generator/)
 
 ---
 

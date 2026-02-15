@@ -1,0 +1,22 @@
+WORKFLOW SNAPSHOT
+------------------
+
+Not Started (2)
+---------------
+  • Email design assets to client  [Medium]
+  • Organize project folder
+
+In Progress (2)
+---------------
+  • Prepare client proposal  [High]
+  • Update workflow documentation
+
+Blocked (2)
+-----------
+  • Schedule follow-up meeting  [High]
+  • Finalize deliverable package
+
+Completed (2)
+-------------
+  • Review project requirements
+  • Run Folder Health Check
