@@ -1,32 +1,24 @@
-# Start Here
+Start Here  
+This page introduces the full Clarity-Engine Ecosystem and explains how the public and private components fit together. The ecosystem is built around three pillars that work together to support clarity, automation, and structured decision-making.
 
-This page introduces the full **Clarity‑Engine Ecosystem** and explains how the public and private components fit together.  
-The ecosystem is built around three pillars that work together to support clarity, automation, and structured decision‑making.
+Pillar 1 — Clarity Assistant (Flagship Tool — Live Demo)
 
----
+An AI-driven workflow assistant designed for structure, clarity, and decision support. This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity-Engine philosophy.
+Run the Assistant: https://clarity-assistant.streamlit.app
 
-## **Pillar 1 — Clarity Assistant (Flagship Tool — Live Demo)**  
-An AI‑driven workflow assistant designed for structure, clarity, and decision support.  
-This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity‑Engine philosophy.  
-**Run the Assistant:** https://clarity-assistant.streamlit.app
----
+Pillar 2 — PersonalSuite (Private Daily Tools)
 
-## **Pillar 2 — PersonalSuite (Private Daily Tools)**  
-A private collection of internal utilities used for real‑world work, including:  
-launchers, automation helpers, financial tools, and personal workflow scripts.  
+A private collection of internal utilities used for real-world work, including:
+launchers, automation helpers, financial tools, and personal workflow scripts.
 These tools remain private but are actively used in production workflows and are available to clients as part of custom workflow builds or premium automation packages.
 
----
+Pillar 3 — PortfolioTools (Public Showcase)
 
-## **Pillar 3 — PortfolioTools (Public Showcase)**  
-**This repository.**  
-A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity‑Engine system.  
-Each tool is self‑contained, documented, and safe for public viewing.
+This repository.
+A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity-Engine system.
+Each tool is self-contained, documented, and safe for public viewing.
 
----
-
-Together, these three pillars form the complete **Clarity‑Engine System** — a unified architecture for clarity, automation, and structured decision‑making.
-
+Together, these three pillars form the complete Clarity-Engine System — a unified architecture for clarity, automation, and structured decision-making.
 ---
 
 
