@@ -15,23 +15,12 @@ These tools remain private but are actively used in production workflows and are
 
 Pillar 3 — PortfolioTools (Public Showcase)
 
-<<<<<<< HEAD
-## **Pillar 3 — PortfolioTools (Public Showcase)**  
-**This repository.**  
-A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity‑Engine system.  
-Each tool is self‑contained, documented, and safe for public viewing.
-
----
-
-Together, these three pillars form the complete Clarity-Engine System — a unified architecture for clarity, automation, and structured decision-making.
-=======
 This repository.
-A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity-Engine system.
+A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity-Engine system.  
 Each tool is self-contained, documented, and safe for public viewing.
->>>>>>> acf906ef8e78c5a8fcaf0edde2b8a0295f8e18d1
 
 Together, these three pillars form the complete Clarity-Engine System — a unified architecture for clarity, automation, and structured decision-making.
----
+-
 
 
 # PortfolioTools
