@@ -76,6 +76,12 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ---
 
+---
+
+## Tool Details
+
+---
+
 ## Folder Health Check
 **1. Folder Health Check**
 
