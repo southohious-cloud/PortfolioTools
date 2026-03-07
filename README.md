@@ -4,6 +4,7 @@ This page introduces the full Clarity-Engine Ecosystem and explains how the publ
 Pillar 1 — Clarity Assistant (Flagship Tool — Live Demo)
 
 An AI-driven workflow assistant designed for structure, clarity, and decision support. This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity-Engine philosophy.
+
 Run the Assistant: https://clarity-assistant.streamlit.app
 
 Pillar 2 — PersonalSuite (Private Daily Tools)
