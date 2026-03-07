@@ -7,8 +7,7 @@ The ecosystem is built around three pillars that work together to support clarit
 
 ## **Pillar 1 — Clarity Assistant (Flagship Tool — Live Demo)**  
 An AI‑driven workflow assistant designed for structure, clarity, and decision support.  
-This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity‑Engine philosophy.
-
+This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity‑Engine philosophy.  
 **Run the Assistant:** https://clarity-assistant.streamlit.app
 ---
 
