@@ -232,6 +232,37 @@ Useful for quick billing, client summaries, and generating consistent invoice re
 
 ---
 
+### How to Use This Repository
+
+This repository is designed for exploration, clarity, and demonstration. Each tool is self‑contained and can be reviewed independently without needing to install or run anything.
+
+Here’s how to navigate it effectively:
+
+1. **Browse the Tool List**  
+   Start with the Included Tools section to see the full catalog of public‑safe utilities.
+
+2. **Open Any Tool Folder**  
+   Each tool lives in its own directory with:
+   - a dedicated README  
+   - a single, well‑structured Python script  
+   - consistent naming and design patterns
+
+3. **Read the Tool’s README**  
+   Every tool includes a short explanation of:
+   - what it does  
+   - what problem it solves  
+   - what inputs and outputs look like  
+
+4. **Review the Python Script**  
+   The code is intentionally minimal and readable, designed to demonstrate the Clarity‑Engine philosophy:  
+   predictable behavior, clean structure, and human‑friendly output.
+
+5. **Use as Reference or Inspiration**  
+   These tools are meant to showcase design style and workflow patterns.  
+   They can be adapted, extended, or used as templates for custom builds.
+
+This structure keeps the repository easy to explore, understand, and integrate into larger systems.
+
 ## Workflow Integration Examples
 
 Below are six modular workflow examples that demonstrate how the tools in this project can be combined into lightweight, repeatable systems. Each example shows how individual tools can operate independently or connect into a larger workflow.
