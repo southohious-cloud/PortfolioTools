@@ -9,8 +9,7 @@ The ecosystem is built around three pillars that work together to support clarit
 An AI‑driven workflow assistant designed for structure, clarity, and decision support.  
 This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity‑Engine philosophy.
 
-**Run the Assistant:**  
-https://clarity-assistant.streamlit.app
+**Run the Assistant:** https://clarity-assistant.streamlit.app
 ---
 
 ## **Pillar 2 — PersonalSuite (Private Daily Tools)**  
