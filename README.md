@@ -20,8 +20,8 @@ A curated set of small, focused utilities that demonstrate the design style, str
 Each tool is self-contained, documented, and safe for public viewing.
 
 Together, these three pillars form the complete Clarity-Engine System — a unified architecture for clarity, automation, and structured decision-making.
--
 
+-
 
 # PortfolioTools
 
