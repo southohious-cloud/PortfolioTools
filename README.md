@@ -1,3 +1,36 @@
+# Start Here
+
+This repository is one part of a larger three‑pillar system called the **Clarity‑Engine Ecosystem**.  
+Each pillar serves a different purpose, and together they form a complete workflow architecture.
+
+---
+
+## **Pillar 1 — Clarity Assistant (Flagship Tool — Live Demo)**  
+An AI‑driven workflow assistant designed for structure, clarity, and decision support.  
+This is the only public, runnable component of the ecosystem.
+
+**Run the Assistant:**  
+https://clarity-assistant.streamlit.app
+
+---
+
+## **Pillar 2 — PersonalSuite (Private Daily Tools)**  
+A private collection of internal utilities used for real‑world work:  
+launchers, automation helpers, financial tools, and personal workflow scripts.  
+These tools remain private but are used actively in production workflows.
+
+---
+
+## **Pillar 3 — PortfolioTools (Public Showcase)**  
+**This repository.**  
+A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity‑Engine system.  
+Each tool is self‑contained, documented, and safe for public viewing.
+
+---
+
+Together, these three pillars form the complete Clarity‑Engine system:  
+private intelligence, private daily operations, and a public‑facing portfolio.
+
 # PortfolioTools
 
 A curated collection of small, focused Python utilities designed for clean structure, predictable behavior, and practical workflow automation. Each tool solves a real‑world problem in a simple, reliable way and produces output that is both human‑friendly and machine‑friendly.
