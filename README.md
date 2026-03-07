@@ -3,7 +3,7 @@ A unified architecture for clarity, automation, and structured decision‑making
 
 ---
   
-This page introduces the full Clarity-Engine Ecosystem and explains how the public and private components fit together. The ecosystem is built around three pillars that work together to support clarity, automation, and structured decision-making.
+This page introduces the full Clarity‑Engine Ecosystem and shows how the public and private components work together as a unified architecture. The system is organized into three pillars, each serving a distinct role in supporting clarity, automation, and structured decision‑making.
 
 ---
 
