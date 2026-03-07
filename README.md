@@ -31,7 +31,10 @@ Together, these three pillars form the complete Clarity-Engine System — a unif
 
 ---
 
-# PortfolioTools
+## PORTFOLIOTOOLS
+A curated collection of small, focused Python utilities...
+
+This repository. A curated set of small, focused utilities...
 
 A curated collection of small, focused Python utilities designed for clean structure, predictable behavior, and practical workflow automation. Each tool solves a real‑world problem in a simple, reliable way and produces output that is both human‑friendly and machine‑friendly.
 
