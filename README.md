@@ -1,13 +1,13 @@
 # Start Here
 
-This repository is one part of a larger three‑pillar system called the **Clarity‑Engine Ecosystem**.  
-Each pillar serves a different purpose, and together they form a complete workflow architecture.
+This page introduces the full **Clarity‑Engine Ecosystem** and explains how the public and private components fit together.  
+The ecosystem is built around three pillars that work together to support clarity, automation, and structured decision‑making.
 
 ---
 
 ## **Pillar 1 — Clarity Assistant (Flagship Tool — Live Demo)**  
 An AI‑driven workflow assistant designed for structure, clarity, and decision support.  
-This is the only public, runnable component of the ecosystem.
+This is the only public, runnable component of the ecosystem and serves as the interactive demonstration of the Clarity‑Engine philosophy.
 
 **Run the Assistant:**  
 https://clarity-assistant.streamlit.app
@@ -15,9 +15,9 @@ https://clarity-assistant.streamlit.app
 ---
 
 ## **Pillar 2 — PersonalSuite (Private Daily Tools)**  
-A private collection of internal utilities used for real‑world work:  
+A private collection of internal utilities used for real‑world work, including:  
 launchers, automation helpers, financial tools, and personal workflow scripts.  
-These tools remain private but are used actively in production workflows.
+These tools remain private but are actively used in production workflows and are available to clients as part of custom workflow builds or premium automation packages.
 
 ---
 
@@ -28,8 +28,8 @@ Each tool is self‑contained, documented, and safe for public viewing.
 
 ---
 
-Together, these three pillars form the complete Clarity‑Engine system:  
-private intelligence, private daily operations, and a public‑facing portfolio.
+Together, these three pillars form the complete **Clarity‑Engine System** — a unified architecture for clarity, automation, and structured decision‑making.
+
 
 # PortfolioTools
 
