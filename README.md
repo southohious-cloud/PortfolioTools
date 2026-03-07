@@ -37,7 +37,6 @@ Each tool is self-contained, documented, and safe for public viewing.
 Together, these three pillars form the complete Clarity‑Engine System — a unified architecture that supports clear thinking, structured workflows, and reliable decision‑making across both public and private environments.
 
 ---
----
 
 ## PORTFOLIOTOOLS  
 A curated collection of small, focused Python utilities designed for clean structure, predictable behavior, and practical workflow automation. Each tool solves a real‑world problem in a simple, reliable way and produces output that is both human‑friendly and machine‑friendly.
