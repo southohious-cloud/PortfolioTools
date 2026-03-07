@@ -14,9 +14,13 @@ Run the Assistant: https://clarity-assistant.streamlit.app
 
 ---
 
-Pillar 2 — PersonalSuite (Private Daily Tools)
+## **Pillar 2 — PersonalSuite (Private Daily Tools)**  
+A private, launcher‑driven suite of internal tools used every day to run real workflows.  
+At the center of this pillar is the PersonalSuite Launcher — a unified command surface that opens, organizes, and coordinates all tools in the suite.  
 
-A private collection of internal utilities used for real-world work, including: launchers, automation helpers, financial tools, and personal workflow scripts. These tools remain private but are actively used in production workflows and are available to clients as part of custom workflow builds or premium automation packages.
+These tools handle structured tasks such as financial tracking, client management, file organization, workflow snapshots, and personal automation routines.  
+They are not public, but they form the operational backbone of the clarity‑engine system.  
+The same design philosophy used in PortfolioTools — clean structure, predictable behavior, and minimal interfaces — is applied here at a deeper, more specialized level.
 
 ---
 
