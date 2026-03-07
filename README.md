@@ -34,8 +34,7 @@ Each tool is self-contained, documented, and safe for public viewing.
 
 ---
 
-Together, these three pillars form the complete Clarity-Engine System — a unified architecture for clarity, automation, and structured decision-making.
-
+Together, these three pillars form the complete Clarity‑Engine System — a unified architecture that supports clear thinking, structured workflows, and reliable decision‑making across both public and private environments.
 ---
 
 ## PORTFOLIOTOOLS  
