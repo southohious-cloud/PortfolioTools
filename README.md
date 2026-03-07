@@ -26,7 +26,6 @@ This pillar remains private because it contains personal workflows, sensitive da
 
 This repository. A curated set of small, focused utilities that demonstrate the design style, structure, and workflow philosophy behind the Clarity-Engine system.  
 Each tool is self-contained, documented, and safe for public viewing.
-
 ---
 
 ## PORTFOLIOTOOLS  
