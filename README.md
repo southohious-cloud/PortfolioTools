@@ -46,7 +46,10 @@ This keeps the suite easy to explore, extend, and integrate into larger systems.
 
 ## Table of Contents
 
+### Table of Contents
 - [Included Tools](#included-tools)
+- [Tool Details](#tool-details)
+- [How to Use This Repository](#how-to-use-this-repository)
 - [Workflow Integration Examples](#workflow-integration-examples)
 - [Full Workflow Diagram](#full-workflow-diagram)
 - [Future Additions](#future-additions)
