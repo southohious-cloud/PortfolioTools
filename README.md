@@ -11,7 +11,6 @@ This is the only public, runnable component of the ecosystem and serves as the i
 
 **Run the Assistant:**  
 https://clarity-assistant.streamlit.app
-
 ---
 
 ## **Pillar 2 — PersonalSuite (Private Daily Tools)**  
