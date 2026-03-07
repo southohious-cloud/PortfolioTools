@@ -263,6 +263,8 @@ Here’s how to navigate it effectively:
 
 This structure keeps the repository easy to explore, understand, and integrate into larger systems.
 
+---
+
 ## Workflow Integration Examples
 
 Below are six modular workflow examples that demonstrate how the tools in this project can be combined into lightweight, repeatable systems. Each example shows how individual tools can operate independently or connect into a larger workflow.
